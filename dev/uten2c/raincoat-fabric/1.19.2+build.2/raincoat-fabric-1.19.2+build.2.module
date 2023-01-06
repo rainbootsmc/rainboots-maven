@@ -1,0 +1,162 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "raincoat-fabric",
+    "version": "1.19.2+build.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "dev.uten2c",
+          "module": "raincoat-protocol",
+          "version": {
+            "requires": "1.19.2+build.2"
+          }
+        },
+        {
+          "group": "com.github.LlamaLad7",
+          "module": "MixinExtras",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "4.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "raincoat-fabric-1.19.2+build.2.jar",
+          "url": "raincoat-fabric-1.19.2+build.2.jar",
+          "size": 79972,
+          "sha512": "8f9a7275096cfae290332919222c7df12af3f37151ede9eca79f6ad5d9666af22e6a40eadcdf093f7c1dd60854af18c7f8030ab425d749fd0b8f1b1bc253d5d6",
+          "sha256": "900b3c6dc31f9ef221d3cd47e00dfa00ec512ccb0879038c537510bd134e1dc4",
+          "sha1": "ef2e37a06b8c7ae59a9d6a2f5c85f7066cd8cc31",
+          "md5": "c03950cbb67c362b2bac3a6f799cb9d7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "dev.uten2c",
+          "module": "raincoat-protocol",
+          "version": {
+            "requires": "1.19.2+build.2"
+          }
+        },
+        {
+          "group": "com.github.LlamaLad7",
+          "module": "MixinExtras",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.10"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api-base",
+          "version": {
+            "requires": "0.4.13+0d0f210290"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-command-api-v2",
+          "version": {
+            "requires": "2.1.9+93d8cb8290"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-lifecycle-events-v1",
+          "version": {
+            "requires": "2.2.2+9244241690"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-registry-sync-v0",
+          "version": {
+            "requires": "0.9.29+9244241690"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-resource-loader-v0",
+          "version": {
+            "requires": "0.8.2+574a764890"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-key-binding-api-v1",
+          "version": {
+            "requires": "1.0.23+aaaf9d3390"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-networking-api-v1",
+          "version": {
+            "requires": "1.2.8+3b1d070f90"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "raincoat-fabric-1.19.2+build.2.jar",
+          "url": "raincoat-fabric-1.19.2+build.2.jar",
+          "size": 79972,
+          "sha512": "8f9a7275096cfae290332919222c7df12af3f37151ede9eca79f6ad5d9666af22e6a40eadcdf093f7c1dd60854af18c7f8030ab425d749fd0b8f1b1bc253d5d6",
+          "sha256": "900b3c6dc31f9ef221d3cd47e00dfa00ec512ccb0879038c537510bd134e1dc4",
+          "sha1": "ef2e37a06b8c7ae59a9d6a2f5c85f7066cd8cc31",
+          "md5": "c03950cbb67c362b2bac3a6f799cb9d7"
+        }
+      ]
+    }
+  ]
+}
