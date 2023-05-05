@@ -1,0 +1,194 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "raincoat-fabric",
+    "version": "1.19.4+build.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "dev.uten2c",
+          "module": "raincoat-protocol",
+          "version": {
+            "requires": "1.19.4+build.6"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "6.1.0-rc.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "raincoat-fabric-1.19.4+build.6.jar",
+          "url": "raincoat-fabric-1.19.4+build.6.jar",
+          "size": 4279317,
+          "sha512": "d3b7b38dbed3d3faf79f227a3969e091b84a8dd65abe757c58921d82824affc636e896d135b1aa50b74059bc7aeaff51f0545b79c5580d883b101c4ea028a7d4",
+          "sha256": "eeaace0ad893f6b5cb5ca46d41b57bcea65581366699845fc27bc678b1e705d7",
+          "sha1": "02adb5308f4156744617283867d506bbf1483ea4",
+          "md5": "a1b6b695c4c484a161bc454c12dba58d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core-jvm",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-jdk8",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core-jvm",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json-jvm",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-cbor-jvm",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime-jvm",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "com.github.kittinunf.fuel",
+          "module": "fuel",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.github.kittinunf.fuel",
+          "module": "fuel-coroutines",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.github.LlamaLad7",
+          "module": "MixinExtras",
+          "version": {
+            "requires": "0.1.1"
+          }
+        },
+        {
+          "group": "dev.uten2c",
+          "module": "raincoat-protocol",
+          "version": {
+            "requires": "1.19.4+build.6"
+          }
+        },
+        {
+          "group": "com.github.kittinunf.result",
+          "module": "result-jvm",
+          "version": {
+            "requires": "5.3.0"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "6.1.0-rc.4"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.17"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.76.0+1.19.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "raincoat-fabric-1.19.4+build.6.jar",
+          "url": "raincoat-fabric-1.19.4+build.6.jar",
+          "size": 4279317,
+          "sha512": "d3b7b38dbed3d3faf79f227a3969e091b84a8dd65abe757c58921d82824affc636e896d135b1aa50b74059bc7aeaff51f0545b79c5580d883b101c4ea028a7d4",
+          "sha256": "eeaace0ad893f6b5cb5ca46d41b57bcea65581366699845fc27bc678b1e705d7",
+          "sha1": "02adb5308f4156744617283867d506bbf1483ea4",
+          "md5": "a1b6b695c4c484a161bc454c12dba58d"
+        }
+      ]
+    }
+  ]
+}
