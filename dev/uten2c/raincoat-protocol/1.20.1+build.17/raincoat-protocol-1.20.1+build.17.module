@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "raincoat-protocol",
+    "version": "1.20.1+build.17",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "raincoat-protocol-1.20.1+build.17.jar",
+          "url": "raincoat-protocol-1.20.1+build.17.jar",
+          "size": 4311,
+          "sha512": "5182ad25d58d005b1f98e859fe8e2a9d475a2f07e8872975be7a0d3b1954425b66e82cb1118b0409c4593a9e275f7c7bd1a67ba2b436bb99dfb9c44973990fcb",
+          "sha256": "76be0538ae31c4f942affdbacf933526f4259949505a0ac900889a7fd3752f83",
+          "sha1": "11d7188387793329b5c026360324a1648ff1e974",
+          "md5": "25792cc24cca4a880de5029e460cb020"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "raincoat-protocol-1.20.1+build.17.jar",
+          "url": "raincoat-protocol-1.20.1+build.17.jar",
+          "size": 4311,
+          "sha512": "5182ad25d58d005b1f98e859fe8e2a9d475a2f07e8872975be7a0d3b1954425b66e82cb1118b0409c4593a9e275f7c7bd1a67ba2b436bb99dfb9c44973990fcb",
+          "sha256": "76be0538ae31c4f942affdbacf933526f4259949505a0ac900889a7fd3752f83",
+          "sha1": "11d7188387793329b5c026360324a1648ff1e974",
+          "md5": "25792cc24cca4a880de5029e460cb020"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "raincoat-protocol-1.20.1+build.17-javadoc.jar",
+          "url": "raincoat-protocol-1.20.1+build.17-javadoc.jar",
+          "size": 101226,
+          "sha512": "6135d30a8269817459b019044e03d6e254260351d601b50866da6e3201b183b3b62558b4375891f25ab0fc4cb9951544f478f2c31cb3e6424a7a9b7afd013f56",
+          "sha256": "266d1c5b101e7ed37ca9042ede0f0851a6c00ede02b51070d01b3abb093ad8ae",
+          "sha1": "d4a9f36b34c4241df342e37efe5a160149e78be4",
+          "md5": "4e542b6dd771ff89e45776d9dd626b64"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "raincoat-protocol-1.20.1+build.17-sources.jar",
+          "url": "raincoat-protocol-1.20.1+build.17-sources.jar",
+          "size": 2144,
+          "sha512": "29a067236e94cb7dde83b440bd56ea5e1a45dcb4ae5244fe59643450822b6715ce24a47ac2ab41df9d650b1a401b626d12ade8f273d1e53d626159ac81ffc02a",
+          "sha256": "079d1880347df0c8aa590bbcd956d1e0331bf6de58a69550ff45c349e5573082",
+          "sha1": "5938c8df349d9149b574b5cc10989e6b90ed48dd",
+          "md5": "66eb778fcdbab07c974d849157d673ab"
+        }
+      ]
+    }
+  ]
+}
