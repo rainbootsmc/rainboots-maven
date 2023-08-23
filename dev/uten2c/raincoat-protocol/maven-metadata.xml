@@ -3,8 +3,8 @@
   <groupId>dev.uten2c</groupId>
   <artifactId>raincoat-protocol</artifactId>
   <versioning>
-    <latest>1.20.1+build.20</latest>
-    <release>1.20.1+build.20</release>
+    <latest>1.20.1+build.21</latest>
+    <release>1.20.1+build.21</release>
     <versions>
       <version>main+build.1</version>
       <version>1.19.2+build.1</version>
@@ -43,7 +43,8 @@
       <version>1.20.1+build.18</version>
       <version>1.20.1+build.19</version>
       <version>1.20.1+build.20</version>
+      <version>1.20.1+build.21</version>
     </versions>
-    <lastUpdated>20230819155905</lastUpdated>
+    <lastUpdated>20230823100929</lastUpdated>
   </versioning>
 </metadata>
