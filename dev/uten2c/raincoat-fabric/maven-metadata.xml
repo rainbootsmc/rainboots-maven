@@ -3,8 +3,8 @@
   <groupId>dev.uten2c</groupId>
   <artifactId>raincoat-fabric</artifactId>
   <versioning>
-    <latest>1.20.1+build.29</latest>
-    <release>1.20.1+build.29</release>
+    <latest>1.20.1+build.30</latest>
+    <release>1.20.1+build.30</release>
     <versions>
       <version>main+build.1</version>
       <version>1.19.2+build.1</version>
@@ -52,7 +52,8 @@
       <version>1.20.1+build.27</version>
       <version>1.20.1+build.28</version>
       <version>1.20.1+build.29</version>
+      <version>1.20.1+build.30</version>
     </versions>
-    <lastUpdated>20230918210314</lastUpdated>
+    <lastUpdated>20230920215700</lastUpdated>
   </versioning>
 </metadata>
