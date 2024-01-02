@@ -78,10 +78,10 @@
           "name": "mcef-2.1.5-1.20.1-sources.jar",
           "url": "mcef-2.1.5-1.20.1-sources.jar",
           "size": 35953,
-          "sha512": "59a723080635e82940d26eac1f2867aeeab944d0e0114f86f4dde4c9e138cf3f6c6e8359fa4d71dc737c5dd903a2218e06b5e681d1f09dea36da69a2dc0cc291",
-          "sha256": "971960e7a92860bc80d4705ea1ba4a093754ad9da7501fb48a3f90fa323960f8",
-          "sha1": "3ae8759e3fc5fe77c6d0c5ff00834064abb4034c",
-          "md5": "11813943485b8148adca45099c8b9d67"
+          "sha512": "5b1b847806ff1f4e01574de2af4170ec717c2c849f1de17e7aa73e678ddd0bb41393da6e262842d2ede42859006d5936b9f50f86842542fc5c7d91cb65aabe55",
+          "sha256": "8aa09b47d44a204a0dee6dd460c9c75ed08c227a354e3fc62ce661bf9270608e",
+          "sha1": "2214fce67d99f5cbac77bf548b2b31a17c18f62e",
+          "md5": "fe201b7ac3fe386417868af1f587accb"
         }
       ]
     }
