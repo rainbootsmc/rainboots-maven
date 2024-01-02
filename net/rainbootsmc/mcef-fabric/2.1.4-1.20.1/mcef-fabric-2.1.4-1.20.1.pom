@@ -12,7 +12,7 @@
   <version>2.1.4-1.20.1</version>
   <dependencies>
     <dependency>
-      <groupId>com.cinemamod</groupId>
+      <groupId>net.rainbootsmc</groupId>
       <artifactId>mcef</artifactId>
       <version>2.1.4-1.20.1</version>
       <scope>runtime</scope>
