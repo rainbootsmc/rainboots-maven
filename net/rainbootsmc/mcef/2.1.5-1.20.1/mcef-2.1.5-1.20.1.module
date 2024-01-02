@@ -64,6 +64,26 @@
           "md5": "f1615c83f3e4f61877c3aca2e2389719"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mcef-2.1.5-1.20.1-sources.jar",
+          "url": "mcef-2.1.5-1.20.1-sources.jar",
+          "size": 35953,
+          "sha512": "59a723080635e82940d26eac1f2867aeeab944d0e0114f86f4dde4c9e138cf3f6c6e8359fa4d71dc737c5dd903a2218e06b5e681d1f09dea36da69a2dc0cc291",
+          "sha256": "971960e7a92860bc80d4705ea1ba4a093754ad9da7501fb48a3f90fa323960f8",
+          "sha1": "3ae8759e3fc5fe77c6d0c5ff00834064abb4034c",
+          "md5": "11813943485b8148adca45099c8b9d67"
+        }
+      ]
     }
   ]
 }

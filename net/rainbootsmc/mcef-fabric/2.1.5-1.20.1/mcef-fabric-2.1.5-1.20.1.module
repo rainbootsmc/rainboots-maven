@@ -27,11 +27,11 @@
         {
           "name": "mcef-fabric-2.1.5-1.20.1.jar",
           "url": "mcef-fabric-2.1.5-1.20.1.jar",
-          "size": 224263,
-          "sha512": "8b6914ffbe25c395132118dee93e149b2e659274245e340a5bb11ad3e90210d94ea7ba78184ac60e80646a05ded79ba75e81913cb661fa91d6b08ff0ba58fcdf",
-          "sha256": "e5789b12322d4d6819c915bd7a19e7cba803b8d76668f73916163e3503b1b7ba",
-          "sha1": "734c43f731f85112502003010984bd4473fb4149",
-          "md5": "0f3b1591f90b8769ad186c35e6cb1b88"
+          "size": 224264,
+          "sha512": "d744070482ac6152c734c89ca71456598f9959576ed09f5332224f7d0b952d19ef9074f9a5b3e17de59097d8be5dfc9b46ba4931e67bf397d8f97108aa46b318",
+          "sha256": "5fc434efda5a62cb1318b16c325844777348775891a0b7e8cbbd83a0d521b39b",
+          "sha1": "33e513de524b7d2ba8b5612b7decf9330560cbc4",
+          "md5": "944e5d065d83c399f6fafb58fe515dbd"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "mcef-fabric-2.1.5-1.20.1.jar",
           "url": "mcef-fabric-2.1.5-1.20.1.jar",
-          "size": 224263,
-          "sha512": "8b6914ffbe25c395132118dee93e149b2e659274245e340a5bb11ad3e90210d94ea7ba78184ac60e80646a05ded79ba75e81913cb661fa91d6b08ff0ba58fcdf",
-          "sha256": "e5789b12322d4d6819c915bd7a19e7cba803b8d76668f73916163e3503b1b7ba",
-          "sha1": "734c43f731f85112502003010984bd4473fb4149",
-          "md5": "0f3b1591f90b8769ad186c35e6cb1b88"
+          "size": 224264,
+          "sha512": "d744070482ac6152c734c89ca71456598f9959576ed09f5332224f7d0b952d19ef9074f9a5b3e17de59097d8be5dfc9b46ba4931e67bf397d8f97108aa46b318",
+          "sha256": "5fc434efda5a62cb1318b16c325844777348775891a0b7e8cbbd83a0d521b39b",
+          "sha1": "33e513de524b7d2ba8b5612b7decf9330560cbc4",
+          "md5": "944e5d065d83c399f6fafb58fe515dbd"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mcef-fabric-2.1.5-1.20.1-shadow-dev.jar",
           "url": "mcef-fabric-2.1.5-1.20.1-shadow-dev.jar",
-          "size": 212846,
-          "sha512": "b054a545b216f5b4b7457069cd42b57f420eede039554e2dc6d1b08a14a07f4408602a48c5ae2ae44fa8fabd072667f055b85b0698d6f52e30a7c9f8a246ba86",
-          "sha256": "1e0a6eceee94769bd59b3ca6cdbb6d37f45f087ed06cb192a99c9c4c0c935a12",
-          "sha1": "eb0230eb0623d07bf7f9b9553b0273f1dea9af76",
-          "md5": "450b82271b4540b7d3891899acd7ce34"
+          "size": 212848,
+          "sha512": "ed02e89b7f5e576236e71cc88ee0953cfffa29aa4e9f4d26fad009eca00fa8a82b65e1403b11c6e30d94c389fd747133fccc628d095b050eb9b46bf63caf299c",
+          "sha256": "b26b5cc8b8611b53718fffdc75510e572b82a8b3e811c26ade5ac32b58349cac",
+          "sha1": "44eceadff7ebce7f86acee8481c74f7cab3479d6",
+          "md5": "ee16a1602bc0e6fc564fef209c5cc8fd"
         }
       ]
     },
@@ -147,10 +147,10 @@
           "name": "mcef-fabric-2.1.5-1.20.1-sources.jar",
           "url": "mcef-fabric-2.1.5-1.20.1-sources.jar",
           "size": 4430,
-          "sha512": "ebc2fb0c064950c8d6377d1adf177890daab38e910f8db7adb55e0dd2357fd859c64325d7614e5949bbe32532b5e354031d6b46f92c049ffe642a43bc3d61776",
-          "sha256": "1f1536b33c56fc0ec4a9b338cc467384fff340bbd7cb33394fcf8f9e5900581c",
-          "sha1": "0cc4c6546fb537d243a0314daf1c78f2782d3b61",
-          "md5": "c53ecb79c3861620eeda164f539e9128"
+          "sha512": "8b14ab74af88f6ddeb42a9e6387119dae740f040a060f1d769b8d1f2223d395fbe46c8fb2fe5e68f3db66f8b752cb9e160ad5a671d678ffcc61b1d73fa22cf16",
+          "sha256": "fde69946bc8d7f4f3efe6621f1bf922483afefad924206413f07f631fc0cffaa",
+          "sha1": "f28458cbcfcbf5b162833eaef475405f92ddd1fd",
+          "md5": "e1791dac747cd07e6355a27489b48a75"
         }
       ]
     }
